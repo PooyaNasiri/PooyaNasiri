@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 14+ years of experience in software development and a demonstrated history of working in the computer software industry. Skilled in C#, C, C++, Java, Object-Oriented Programming (OOP), Artificial Intelligence, machine learning, deep learning, and micro-controller programming such as Atmel AVR and STM, graduated with a BEng in Software Engineering from IAUST and studying MEng in Artificial Intelligence at UNIPD.
+I have 14+ years of experience in software development and a demonstrated history of working in the computer software industry. Skilled in C#, C, C++, Java, Object-Oriented Programming (OOP), Artificial Intelligence, machine learning, deep learning, and microcontroller programming, such as Atmel AVR and STM. Graduated with a BEng in Software Engineering from IAUST and with a MEng in Artificial Intelligence from UNIPD.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pooyanasiri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pooyanasiri) 

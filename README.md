@@ -22,6 +22,7 @@ I have 14+ years of experience in software development and a demonstrated histor
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/pooyanasiri) 
+  [![GitHub Sponsors](https://img.shields.io/github/sponsors/PooyaNasiri?style=for-the-badge&logo=github&color=FF69B4)](https://github.com/sponsors/PooyaNasiri)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
